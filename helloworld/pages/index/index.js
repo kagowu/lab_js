@@ -7,15 +7,12 @@ console.log(extConfig.name)//第三方平台自定义的数据
 
 
 console.log(extConfig.name)
-var data=[1,2,3,4,5]
-wx.showToast({
-  title: '111',
-})
+
 Page({
   data: {
     motto: extConfig.name,
     userInfo: {},
-    hasUserInfo: false,
+    hasUserInfo: true,
     canIUse: wx.canIUse('button.open-type.getUserInfo')
   },
   //事件处理函数
