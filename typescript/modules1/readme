@@ -1,0 +1,6 @@
+tsc --module commonjs Test.ts
+
+commonjs
+AMD
+UMD
+Es module

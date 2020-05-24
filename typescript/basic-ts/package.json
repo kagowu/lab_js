@@ -1,0 +1,7 @@
+{
+    "name": "basic-ts",
+    "dependencies": {
+        "@types/node": "^14.0.5",
+        "fs": "0.0.1-security"
+    }
+}

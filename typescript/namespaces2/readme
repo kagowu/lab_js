@@ -1,0 +1,1 @@
+tsc --outFile sample.js Test.ts
