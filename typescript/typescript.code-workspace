@@ -20,6 +20,9 @@
 		},
 		{
 			"path": "ts-weather"
+		},
+		{
+			"path": "lockfiletest"
 		}
 	]
 }
