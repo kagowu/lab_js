@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "basic-ts"
+		},
+		{
+			"path": "counter"
+		},
+		{
+			"path": "interfaces"
+		},
+		{
+			"path": "modules1"
+		},
+		{
+			"path": "namespaces"
+		},
+		{
+			"path": "namespaces2"
+		},
+		{
+			"path": "ts-weather"
+		}
+	]
+}
